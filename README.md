@@ -1,12 +1,12 @@
 ## 🚀 About Me
-I'm Romain Caron. A junior Web Developer, Living in Amiens.
+I'm Romain Caron. Studying to become a Web Developer, Living in Amiens.
 
 ## 🛠 Skills
 HTML, CSS, PHP, JavaScript
 
 ## More about me
 
-👩‍💻 I'm student 
+👩‍💻 I'm student (3rd year)
 
 🧠 I'm currently learning ReactJS, NodeJS and NextJS
 
