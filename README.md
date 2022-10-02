@@ -2,13 +2,15 @@
 I'm Romain Caron. Studying to become a Web Developer, Living in Amiens.
 
 ## 🛠 Skills
-HTML, CSS, PHP, JavaScript
+Javascript, PHP, Solidity
 
 ## More about me
 
-👩‍💻 I'm student (3rd year)
+👩‍💻 I'm student (4th year)
 
-🧠 I'm currently learning ReactJS, NodeJS and NextJS
+🧠 I'm currently learning Symfony, NextJS and Solidity.
+
+💻 I'm currently working at @Awelty.
 
 📫 How to reach me : @romaincaron1 on twitter
                      caron.romain@free.fr
