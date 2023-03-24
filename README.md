@@ -8,8 +8,6 @@ Javascript, Typescript, PHP, Solidity
 
 👩‍💻 I'm student (4th year)
 
-🧠 I'm currently learning Symfony, NextJS and Solidity.
-
 💻 I'm currently working at @Awelty.
 
 📫 How to reach me : @romaincaron1 on twitter
