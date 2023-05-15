@@ -2,7 +2,7 @@
 I'm Romain Caron. Studying to become a Web Developer, Living in Amiens.
 
 ## 🛠 Skills
-Symfony, Javascript, C++
+Symfony, Javascript
 
 ## More about me
 
