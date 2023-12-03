@@ -6,7 +6,7 @@ Symfony, Javascript
 
 ## More about me
 
-👩‍💻 I'm student (4th year)
+👩‍💻 I'm student (5th year)
 
 💻 I'm currently working at @Awelty.
 
