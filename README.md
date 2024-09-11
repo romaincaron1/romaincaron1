@@ -1,14 +1,12 @@
 ## 🚀 About Me
-I'm Romain Caron. Studying to become a Web Developer, Living in Amiens.
+I'm Romain Caron. a Java Web Developer, Living in Amiens.
 
 ## 🛠 Skills
-Java, Javascript
+Java, ReactJS, AngularJS, Javascript
 
 ## More about me
 
 👩‍💻 I'm student (5th year)
-
-💻 I'm currently working at @Awelty.
 
 📫 How to reach me : @romaincaron1 on twitter
                      caron.romain@free.fr
