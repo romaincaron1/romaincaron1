@@ -1,12 +1,12 @@
 ## 🚀 About Me
-I'm Romain Caron. a Java Web Developer, Living in Amiens.
+I'm Romain Caron. a Java Web Developer, Living in Paris.
 
 ## 🛠 Skills
-Java, ReactJS, AngularJS, Javascript
+Java, ReactJS, Javascript
 
 ## More about me
 
-👩‍💻 I'm student (5th year)
+👩‍💻 I'm a Fullstack Devleopper
 
 📫 How to reach me : @romaincaron1 on twitter
                      caron.romain@free.fr
